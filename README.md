@@ -1,7 +1,7 @@
 # Welcome to Remix!
 ## Remix Blog
 
-This is my first Simple Remix Blog App made from scratch [Remix Crash Course]() 
+This is my first Simple Remix Blog App made from scratch Using [Remix Crash Course]() 
 
 - [Remix Docs](https://remix.run/docs)
 
