@@ -82,3 +82,9 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+
+## Project is Licensed Under the
+
+[MIT License](https://github.com/web-codegrammer/Project_Remix_Blog/blob/main/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2022-2023 [web-codegrammer](https://github.com/web-codegrammer). All Rights Reserved | 2022
